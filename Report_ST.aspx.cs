@@ -22,7 +22,7 @@ public partial class Report_ST : System.Web.UI.Page
             //ddl_year.SelectedValue = DateTime.Now.AddMonths(-1).ToString("yyyy"); //获取上月年份
             //ddl_month.SelectedValue = DateTime.Now.AddMonths(-1).ToString("MM"); //获取上月月份
             
-        } 
+        }
         QueryASPxGridView();
     }
 
